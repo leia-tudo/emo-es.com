@@ -1,0 +1,40 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.centro{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+nav{
+    position: sticky;
+    top: 0;
+    font-size: 20px;
+}
+.logo{
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+.logo:hover{
+    color: gray;
+}
+.imagem{
+    width: 60px;
+    border-radius: 30px;
+}
+a{
+    text-decoration: none;
+}
+a.capitulos{
+    color: black;
+    background-color: black;
+}
+#cap1{
+    color: chartreuse;
+}
+.emoçoes{
+    color: darkgray;
+    text-align: center;
+}
